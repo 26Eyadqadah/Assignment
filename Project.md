@@ -38,3 +38,5 @@ Encourage collaborative learning: Technology allows students to work together on
 Instant Feedback: Teachers can provide instant feedback on students' assignments and tests, helping them continually improve.
 
 ! [this it a photo of somthing](https://images.app.goo.gl/U7zFHRfSfowbMBdh9)
+
+# Name : Eyad Ishaq Qadah 
