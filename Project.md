@@ -36,3 +36,6 @@ One of the advantages of using technology in education is that it enhances inter
 Effective Communication: E-learning platforms and social media allow students and teachers to easily communicate, ask questions, and discuss lessons at any time.
 Encourage collaborative learning: Technology allows students to work together on projects and exchange ideas and information more effectively, enhancing their collaborative skills.
 Instant Feedback: Teachers can provide instant feedback on students' assignments and tests, helping them continually improve.
+
+! [this it a photo of somthing](![image](https://github.com/user-attachments/assets/71871ef2-b92b-4061-8dfd-aa970c2331e0)
+)
