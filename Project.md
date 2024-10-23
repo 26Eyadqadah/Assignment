@@ -37,5 +37,4 @@ Effective Communication: E-learning platforms and social media allow students an
 Encourage collaborative learning: Technology allows students to work together on projects and exchange ideas and information more effectively, enhancing their collaborative skills.
 Instant Feedback: Teachers can provide instant feedback on students' assignments and tests, helping them continually improve.
 
-! [this it a photo of somthing](![image](https://github.com/user-attachments/assets/71871ef2-b92b-4061-8dfd-aa970c2331e0)
-)
+! [this it a photo of somthing](https://images.app.goo.gl/U7zFHRfSfowbMBdh9)
