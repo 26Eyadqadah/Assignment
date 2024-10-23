@@ -107,4 +107,4 @@ Developing teachers’ capabilities: It is important for teachers to have the sk
 
 In short, technology has a significant and positive impact on the education system. Although there are some drawbacks and challenges, the huge benefits of educational technology far outweigh them. By using technology thoughtfully and effectively, educational institutions can achieve amazing results in improving the quality of education and providing an exciting and stimulating learning environment for students. 
 
- 
+ # Name : Eyad Ishaq Qadah
