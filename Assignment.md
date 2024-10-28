@@ -1,4 +1,4 @@
-# Project
+# Assignment
 Modern technology How does it effect education today and in the future?
 
 Technology is one of the most important factors influencing the education system in the modern era. It has revolutionized the way knowledge is transferred and information is exchanged between students and teachers. Many educational and academic institutions seek to integrate technology into the educational process in order to improve the quality of education and provide exciting and useful learning experiences. In this article, we will explore the impact of technology in education and how it can be effective in achieving educational goals.
